@@ -21,8 +21,7 @@
 
 <p></p>
 
-Where to find me
-----------------
+### Where to find me
 
 <p>
 <a href="https://codepen.io/@moose62712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@moose62712" height="30" width="30" /></a>
