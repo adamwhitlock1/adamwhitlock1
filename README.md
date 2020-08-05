@@ -1,3 +1,2 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamwhitlock1&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=adamwhitlock1&show_icons=true&theme=tokyonight" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamwhitlock1&theme=tokyonight" />
 
