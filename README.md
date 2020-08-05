@@ -9,7 +9,7 @@
 
 - 📫 &nbsp; How to reach me **adam.whitlock627@gmail.com**
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamwhitlock1&layout=compact&theme=tokyonight" alt="adamwhitlock1" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamwhitlock1&layout=compact&theme=tokyonight&count_private=true" alt="adamwhitlock1" /></p>
 
 <hr />
 
