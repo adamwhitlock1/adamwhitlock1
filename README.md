@@ -19,7 +19,12 @@
 
 <hr />
 
-<p align="center">
+<p></p>
+
+Where to find me
+----------------
+
+<p>
 <a href="https://codepen.io/@moose62712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@moose62712" height="30" width="30" /></a>
 <a href="https://dev.to/@codestuff2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@codestuff2" height="30" width="30" /></a>
 <a href="https://twitter.com/@codestuff2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@codestuff2" height="30" width="30" /></a>
