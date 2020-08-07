@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Whitlock</h1>
 <h3 align="center">A mountainside developer that loves UI and making things work.</h3>
 
-- 🥾 &nbsp; I’m currently working on [cliplo](https://github.com/adamwhitlock1/cliplo-quasar), and as a Senior Developer at Dealer Inspire.
+- 🥾 &nbsp; I’m currently working on [cliplo](https://github.com/adamwhitlock1/cliplo-quasar), and I'm a Senior Developer at Dealer Inspire.
 
 - 👨‍💻  &nbsp; All of my projects are available at [https://codestuff.io](https://codestuff.io)
 
