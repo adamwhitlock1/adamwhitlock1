@@ -32,3 +32,5 @@
 <a href="https://dribbble.com/codestuff2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="codestuff2" height="30" width="30" /></a>
 <a href="https://www.behance.net/adamwhitlock1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="adamwhitlock1" height="30" width="30" /></a>
 </p>
+
+<p>Thanks for looking, and have a great day! 👻</p>
