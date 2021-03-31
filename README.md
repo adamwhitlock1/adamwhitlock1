@@ -4,7 +4,7 @@
 
 - 🔭  I’m currently working on [cliplo](https://github.com/adamwhitlock1/cliplo-quasar)
 
-- 👨‍ 💻 Come of my projects are available at [https://codestuff.io/](https://codestuff.io/)
+- 👨‍ Some of my projects are available at [https://codestuff.io/](https://codestuff.io/)
 
 - 💬  Ask me about **Ask me about Vue, Tailwind, Wordpress, PHP, Node, or Beer.**
 
