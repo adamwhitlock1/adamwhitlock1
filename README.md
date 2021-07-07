@@ -2,11 +2,11 @@
 <h3 align="center">A mountainside developer that loves the Frontend.</h3>
 
 
-- 🔭  I’m currently working on [cliplo](https://github.com/adamwhitlock1/cliplo-quasar)
+- 🔭  I’m currently working on Content and Localization for VA.gov
 
 - 👨‍ Some of my projects are available at [https://codestuff.io/](https://codestuff.io/)
 
-- 💬  Ask me about **Ask me about Vue, Tailwind, Wordpress, PHP, Node, or Beer.**
+- 💬  Ask me about **Ask me about Vue, Tailwind, Wordpress, PHP, and Node.**
 
 - 📫  How to reach me **adam.whitlock627@gmail.com**
 
