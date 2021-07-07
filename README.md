@@ -17,7 +17,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamwhitlock1&show_icons=true&theme=dark&locale=en&layout=compact" alt="adamwhitlock1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamwhitlock1&theme=dark" alt="adamwhitlock1" /></p>
-
 
 <p>Thanks for looking, and have a great day! 👻</p>
