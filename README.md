@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A mountainside developer that loves the Frontend.</h3>
+<h3 align="center">A mountainside software engineer and hardware tinkerer.</h3>
 
 
 - 🔭  I’m currently working on Content and Localization for VA.gov
