@@ -6,7 +6,7 @@
 
 - 👨‍ Some of my projects are available at [https://codestuff.io/](https://codestuff.io/)
 
-- 💬  Ask me about **Ask me about Vue, Tailwind, Wordpress, PHP, and Node.**
+- 💬  Ask me about **Vue, Tailwind, Wordpress, PHP, and Node.**
 
 - 📫  How to reach me **adam.whitlock627@gmail.com**
 
