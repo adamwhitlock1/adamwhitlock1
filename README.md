@@ -2,7 +2,7 @@
 <h3 align="center">A mountainside software engineer and hardware tinkerer.</h3>
 
 
-- 🔭  I’m currently working on Content and Localization for VA.gov
+- 🔭  I’m currently working on VA.gov as a member of AdHoc
 
 - 👨‍ Some of my projects are available at [https://codestuff.io/](https://codestuff.io/)
 
