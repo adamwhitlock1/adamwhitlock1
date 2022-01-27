@@ -2,13 +2,13 @@
 <h3 align="center">A mountainside software engineer and hardware tinkerer.</h3>
 
 
-- 🔭  I’m currently working on VA.gov as a member of AdHoc
+🔭 &nbsp; I’m currently working on VA.gov as a member of AdHoc
 
-- 👨‍ Some of my projects are available at [https://codestuff.io/](codestuff.io)
+🖥️ &nbsp; Personal site: [codestuff.io](https://codestuff.io/)
 
-- 💬  Ask me about **Vue, Tailwind, Wordpress, PHP, and Node.**
+💬 &nbsp; Ask me about **Vue, Tailwind, Wordpress, PHP, and Node.**
 
-- 📫  How to reach me **adam.whitlock627@gmail.com**
+📫 &nbsp; How to reach me **adam.whitlock627@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
