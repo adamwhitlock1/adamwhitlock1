@@ -4,7 +4,7 @@
 
 - 🔭  I’m currently working on VA.gov as a member of AdHoc
 
-- 👨‍ Some of my projects are available at [https://codestuff.io/](https://codestuff.io/)
+- 👨‍ Some of my projects are available at [https://codestuff.io/](codestuff.io)
 
 - 💬  Ask me about **Vue, Tailwind, Wordpress, PHP, and Node.**
 
