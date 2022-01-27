@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/codestuff2" target="blank"><img src="https://img.shields.io/twitter/follow/codestuff2?logo=twitter&style=for-the-badge" alt="codestuff2" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamwhitlock1&show_icons=true&theme=light&locale=en&layout=compact" alt="adamwhitlock1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamwhitlock1&show_icons=true&theme=dark&locale=en&layout=compact" alt="adamwhitlock1" /></p>
 
 
 <p>Thanks for looking, and have a great day! 👻</p>
