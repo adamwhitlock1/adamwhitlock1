@@ -41,6 +41,8 @@
 
 <p align="left"> <a href="https://twitter.com/codestuff2" target="blank"><img src="https://img.shields.io/twitter/follow/codestuff2?logo=twitter&style=for-the-badge" alt="codestuff2" /></a> </p>
 
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamwhitlock1&include_all_commits=true&count_private=true&theme=material-palenight)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamwhitlock1&show_icons=true&theme=material-palenight&locale=en&lang_count=10" alt="adamwhitlock1" /></p>
 
 
