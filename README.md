@@ -6,7 +6,7 @@
 
 🖥️ &nbsp; Personal site: [codestuff.io](https://codestuff.io/)
 
-💬 &nbsp; Ask me about **Vue, React, JavaScript, Tailwind, , Node, Laravel, Wordpress, PHP, and Node.**
+💬 &nbsp; Ask me about **Vue, React, JavaScript, Tailwind, Node, Laravel, Wordpress, PHP, and Node.**
 
 📫 &nbsp; How to reach me **adam.whitlock627@gmail.com**
 
