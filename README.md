@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 
-🔭 &nbsp; I’m currently working on [VA.gov](https://va.gov) as a member of [AdHoc](https://adhocteam.us)
+🔭 &nbsp; Currently working on [VA.gov](https://va.gov) as a member of [AdHoc](https://adhocteam.us)
 
-🖥️ &nbsp; Some of my work: [codestuff.io](https://codestuff.io/)
-
-📫 &nbsp; How to reach me **adam.whitlock627@gmail.com**
+🖥️ &nbsp;: [codestuff.io](https://codestuff.io/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
