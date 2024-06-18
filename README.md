@@ -2,7 +2,7 @@
 
 🔭 &nbsp; Currently working on [VA.gov](https://va.gov) as a member of [AdHoc](https://adhocteam.us)
 
-🖥️ &nbsp;: [codestuff.io](https://codestuff.io/)
+🖥️ &nbsp; [codestuff.io](https://codestuff.io/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
