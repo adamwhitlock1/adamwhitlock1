@@ -32,6 +32,4 @@
    
   </p>
 
-<p align="left"> <a href="https://twitter.com/codestuff2" target="blank"><img src="https://img.shields.io/twitter/follow/codestuff2?logo=twitter&style=for-the-badge" alt="codestuff2" /></a> </p>
-
 <p>Thanks for looking, and have a great day! 👻</p>
