@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 
-🔭 &nbsp; Currently working on [VA.gov](https://va.gov) as a member of [Oddball - A strangely human digital agency](https://oddball.io)
+🔭 &nbsp; Currently building software for the Department of Veteran Affairs as a member of [Oddball - A strangely human digital agency](https://oddball.io)
 
 🖥️ &nbsp; [codestuff.io](https://codestuff.io/)
 
